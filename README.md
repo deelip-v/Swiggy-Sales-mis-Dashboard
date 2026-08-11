@@ -36,11 +36,9 @@ The dashboard includes:
 - Data visualization
 - Management-oriented report presentation
 ### Additional Excel Techniques
-Where applicable in the underlying workbook:
 - Pivot Tables
 - Pivot Charts
 - Excel formulas
-- Calculated fields / calculated metrics
 - Slicers
 - Data aggregation
 ## Business Insights Covered
@@ -59,13 +57,12 @@ The dashboard allows users to review:
 ## Tools Used
 - Microsoft Excel
 - Excel Dashboard
-- Pivot Tables / Pivot Charts, where applicable
+- Pivot Tables / Pivot Charts
 - Slicers
-- Excel formulas, where applicable
+- Excel formulas
 - Data visualization
 ## Project Files
 - `Dashboard/Swiggy_Sales_MIS_Dashboard.xlsx` - Main Excel dashboard
-- `Data/Swiggy_Sales_Data.xlsx` - Source data, if available
 - `Screenshots/Swiggy_Sales_Dashboard.png` - Dashboard preview
 ## Intended Use
 This project is presented as a portfolio example for MIS Executive, MIS Analyst, Reporting Executive, and entry-level Business/Data Reporting roles.
