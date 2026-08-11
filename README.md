@@ -62,8 +62,8 @@ The dashboard allows users to review:
 - Excel formulas
 - Data visualization
 ## Project Files
-- `Dashboard/Swiggy_Sales_MIS_Dashboard.xlsx` - Main Excel dashboard
-- `Screenshots/Swiggy_Sales_Dashboard.png` - Dashboard preview
+- `Swiggy_Sales_Data.xlsx` - Main Excel dashboard
+- `Swiggy_Sales_Dashboard.png` - Dashboard preview
 ## Intended Use
 This project is presented as a portfolio example for MIS Executive, MIS Analyst, Reporting Executive, and entry-level Business/Data Reporting roles.
 ## Author
